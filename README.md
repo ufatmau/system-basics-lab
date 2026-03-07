@@ -1,6 +1,6 @@
 # system-basics-lab
 Amaç: Backend / Sistem + Güvenlik yolunda temel sistemleri öğrenmek.
-Başlangıç tarihi: (bugünün tarihi).
+Başlangıç tarihi: 10.02.2026
 Haftalık süre: 10 saat
 
 ## Ortam
